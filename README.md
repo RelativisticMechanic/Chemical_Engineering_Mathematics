@@ -9,6 +9,9 @@ These are some notes (in Jupyter Notebook) I made for the course of Chemical Eng
 In the course, we learnt:
 
 - Linear Regression
+- Lagrange Interpolation
+- Estimation of integrals using quadratures
+- Simpsons Rules
 - Gaussian LU decomposition
 - Gauss-Seidel Iteration
 - Euler Explicit Solver for ODEs
